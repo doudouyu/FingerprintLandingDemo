@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FingerprintLandingDemo</string>
+    <string name="cancel">cancel</string>
+    <string name="fingerprint_login">fingerprint login</string>
+    <string name="password_verification">Please input the login password to complete the authentication.</string>
+    <string name="next">Next step </string>
+    <string name="password_verification_title">Authentication</string>
+    <string name="verification_for_login">Please verify the fingerprint and print the fingerprint.</string>
+    <string name="fingerprint_verification_failed">Fingerprint check failed. Please try again.</string>
+    <string name="fingerprint_verification">Checking fingerprint</string>
+    <string name="fingerprint_verification_succeed">Fingerprint verification is successful.</string>
+    <string name="please_open_fingerprint_landing">No fingerprint is logged in. Please login and set up fingerprint login in settings.</string>
+    <string name="remind_fingerprint_login">Place your fingers on the main screen keys. Keep your fingers clean and dry.</string>
+    <string name="confirm_jump_to_setting_activity">You have not set up the fingerprint. Do you want to set up the page to set up the fingerprint?</string>
+    <string name="confirm_close_Fingerprint_login">Confirm closing fingerprint access</string>
+    <string name="cancel_login_by_fingerprint">Fingerprint operation cancelled</string>
+    <string name="cant_suport_fingerPrint">Fingerprint registration is not supported.</string>
+    <string name="login_fail_by_fingerprint">Failed to open fingerprint login</string>
+    <string name="fingerprint_login_des">After opening, you can quickly complete the login through fingerprints</string>
+    <string name="general_ok">ok</string>
+    <string name="general_cancel">cancel</string>
+    <string name="confirm">confirm</string>
+</resources>
